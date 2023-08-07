@@ -36,7 +36,7 @@ def findRequirements():
 if __name__ == "__main__":
     requirements = findRequirements()
     REPO_NAME = "Uber_Project_Pipeline"
-    AUTHOR_USER_NAME = "ReadyToTakeOff"
+    AUTHOR_USER_NAME = "MLFOLKS"
     SRC_REPO = "UberModel"
     setup(
         name=SRC_REPO,
