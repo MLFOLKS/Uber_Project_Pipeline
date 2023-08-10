@@ -7,6 +7,7 @@
 .metadata_never_index
 .fseventsd/
 boot_out.txt
+nltk.ipynb
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
@@ -29,7 +30,8 @@ ipython_config.py
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
