@@ -8,6 +8,7 @@
 .fseventsd/
 boot_out.txt
 nltk.ipynb
+other/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
