@@ -33,6 +33,8 @@ if it's looks valid and good we will commit else we will reject
 
 this will help you to get the latest dataset
 
+request for gdrive folder access else you won't get the data
+
 ```
 dvc pull
 ```
