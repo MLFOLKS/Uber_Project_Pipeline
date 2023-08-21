@@ -1,0 +1,5 @@
+outs:
+- md5: 7c8950a9185299d05856072246d70178
+  size: 771
+  hash: md5
+  path: transformed.pkl
