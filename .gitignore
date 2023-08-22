@@ -9,6 +9,7 @@
 boot_out.txt
 nltk.ipynb
 other/
+.zen/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
